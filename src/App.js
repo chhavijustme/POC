@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 
-import { PageHeader, Breadcrumb } from 'react-bootstrap';
-import testbutton from './components/Button.js'
+import { PageHeader, Breadcrumb, Button } from 'react-bootstrap';
+
 import './App.css';
 import './css/bootstrap.min.css';
+
+
 
 class App extends Component {
   render() {
@@ -14,6 +16,10 @@ class App extends Component {
           <PageHeader>
             Example page header <small>Subtext for header</small>
           </PageHeader>
+
+    
+
+          
 
           <Breadcrumb>
           <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
