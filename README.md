@@ -1,1 +1,5 @@
-Testing. 1-2-4.
+![cover](/cover.png)
+
+# MusicBrainz Design System
+
+The humble beginnings of a grand MusicBrainz redesign. 🎨
