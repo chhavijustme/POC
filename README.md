@@ -1,4 +1,4 @@
-![cover](/cover.png)
+![cover](/cover2.png)
 
 # MusicBrainz Design System
 
